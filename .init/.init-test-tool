@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-multiplayer-platform-8577-8586/tic_tac_toe_backend"
+}
